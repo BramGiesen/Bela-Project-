@@ -11,5 +11,16 @@
 ###### dinsdag 27 februari:
   * Ik ben opzoek gegaan naar meer informatie over het aansluiten van Piëzo-elementen op de Bela, hier heb ik nu wel een duidelijk schema van gevonden. Om het te kunnen aansluiten heb ik naast de Piëzo-elementen ook weerstandjes nodig.
 
+###### donderdag 29 februari:
+  * Om advies gevraagd op het Bela forum, helaas waren alle suggesties vrij duur. Met een snelle rekensom kwamen sommige opties boven de 350 euro uit. Daarnaast kwam ik er ook achter dat het toch behoorlijk lastig is om het zo te maken dat het ook echt praktisch wordt in het gebruik. De Bela is een beetje aan de grote kant en daardoor is het ook niet mogelijk om hem in de gitaar in te bouwen, het volgende probleem is dat de Bela ook nog met de computer zou moeten communiceren. het meest praktische zou dan draadloos zijn maar ook dit kost dan natuurlijk extra. Alles bij elkaar wordt het dan zo duur dat het geen rendabel project zou zijn.
 
-  
+###### dinsdag 21 juni:
+  * Om de redenen die ik hiervoor heb genoemd heb ik besloten om het over een andere boeg te gooien. Ik heb besloten om de Bela te gebruiken om een gitaarpedaal te maken. Ik heb al een aantal audio effect plugins gemaakt en het zou heel tof zijn als ik die op een hardware apparaat kan gaan draaien.
+  * Ik ben begonnen met wat voorbeelden doorlezen. Eentje hiervan ging over het verbinden van potmeters aan de Bela en deze mappen aan bepaalde parameters.
+  De andere was een simpele uitleg van hoe je de render.cpp file kan gebruiken om de audio input door te sturen naar de output(zonder klank bewerking dus).
+  Deze twee voorbeelden heb ik gecombineerd met mijn code van een ringmodulator plugin. Ik moet nog een aantal zaken implementeren maar de ringmodulator doet het al wel. Ik kan nu ook de parameters aansturen met de potmeters, hiervoor heb ik 6 10k potmeters aan de analog in van de Bela gehangen.
+  <img src="images/foto1.jpg">
+  Om the testen of alle potmeters goed werkte heb ik aan aantal sinus oscillatoren aangemaakt en de potmeters gemapt aan het volume en de frequency van de sinustonen.
+  * Om een idee te krijgen van het formaat van de behuizingen heb ik de potmeters vast gemaakt aan een kartonnen doosje en de Bela hierin gelegd.
+
+  <img src="images/foto2.jpg">
