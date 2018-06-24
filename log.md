@@ -20,10 +20,10 @@
   * Ik ben begonnen met wat voorbeelden doorlezen. Eentje hiervan ging over het verbinden van potmeters aan de Bela en deze mappen aan bepaalde parameters.
   De andere was een simpele uitleg van hoe je de render.cpp file kan gebruiken om de audio input door te sturen naar de output(zonder klank bewerking dus).
   Deze twee voorbeelden heb ik gecombineerd met mijn code van een ringmodulator plugin. Ik moet nog een aantal zaken implementeren maar de ringmodulator doet het al wel. Ik kan nu ook de parameters aansturen met de potmeters, hiervoor heb ik 6 10k potmeters aan de analog in van de Bela gehangen.
-  <img src="https://raw.githubusercontent.com/BramGiesen/Bela-Project-/master/images/foto1.JPG">
   * Om the testen of alle potmeters goed werkte heb ik aan aantal sinus oscillatoren aangemaakt en de potmeters gemapt aan het volume en de frequency van de sinustonen.
   * Om een idee te krijgen van het formaat van de behuizingen heb ik de potmeters vast gemaakt aan een kartonnen doosje en de Bela hierin gelegd.
 
+  <img src="https://raw.githubusercontent.com/BramGiesen/Bela-Project-/master/images/foto1.JPG">
   <img src="https://raw.githubusercontent.com/BramGiesen/Bela-Project-/master/images/foto2.JPG">
 
 
