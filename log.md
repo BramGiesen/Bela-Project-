@@ -14,8 +14,9 @@
 ###### donderdag 29 februari:
   * Om advies gevraagd op het Bela forum, helaas waren alle suggesties vrij duur. Met een snelle rekensom kwamen sommige opties boven de 350 euro uit. Daarnaast kwam ik er ook achter dat het toch behoorlijk lastig is om het zo te maken dat het ook echt praktisch wordt in het gebruik. De Bela is een beetje aan de grote kant en daardoor is het ook niet mogelijk om hem in de gitaar in te bouwen, het volgende probleem is dat de Bela ook nog met de computer zou moeten communiceren. het meest praktische zou dan draadloos zijn maar ook dit kost dan natuurlijk extra. Alles bij elkaar wordt het dan zo duur dat het geen rendabel project zou zijn.
 
-###### dinsdag 21 juni:
+###### dinsdag 19 juni:
   * Om de redenen die ik hiervoor heb genoemd heb ik besloten om het over een andere boeg te gooien. Ik heb besloten om de Bela te gebruiken om een gitaarpedaal te maken. Ik heb al een aantal audio effect plugins gemaakt en het zou heel tof zijn als ik die op een hardware apparaat kan gaan draaien.
+  * In het begin had ik problemen met het compileren van de code. Hij sloeg de code niet op en registreerde geen veranderingen in de .cpp files. Nadat ik de Bela had gereset was dit probleem opgelost.
   * Ik ben begonnen met wat voorbeelden doorlezen. Eentje hiervan ging over het verbinden van potmeters aan de Bela en deze mappen aan bepaalde parameters.
   De andere was een simpele uitleg van hoe je de render.cpp file kan gebruiken om de audio input door te sturen naar de output(zonder klank bewerking dus).
   Deze twee voorbeelden heb ik gecombineerd met mijn code van een ringmodulator plugin. Ik moet nog een aantal zaken implementeren maar de ringmodulator doet het al wel. Ik kan nu ook de parameters aansturen met de potmeters, hiervoor heb ik 6 10k potmeters aan de analog in van de Bela gehangen.
@@ -24,3 +25,22 @@
   * Om een idee te krijgen van het formaat van de behuizingen heb ik de potmeters vast gemaakt aan een kartonnen doosje en de Bela hierin gelegd.
 
   <img src="https://raw.githubusercontent.com/BramGiesen/Bela-Project-/master/images/foto2.JPG">
+
+
+###### donderdag 21 juni:
+
+  * In de werkplaats begonnen aan een stalen behuizen.
+  * Ik merkte dat ik een paar keer een beetje te snel wilde gaan waardoor ik bepaalde technieken niet eerst op een sample had getest. Dit wil ik de volgende keer wel doen. Ik de vouwen van het bakje nu iets de wijd gemaakt. Dit is ook later niet meer goed te corrigeren.
+  Ik heb dit opgelost door er hoekjes in te zetten, maar het was natuurlijk makkelijker om het in één keer goed te doen.
+
+  <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto3.JPG?raw=true">
+
+
+
+###### vrijdag 22 juni:
+  * Verder gegaan aan de behuizing. Steuntjes in het bakjes gelast om de boven plaat te ondersteunen en ervoor te zorgen dat de bovenplaat vast te schroeven is. Ik heb onder de steuntjes een moertje gelast om hier de bout in vast te kunnen zetten. Dit was uiteindelijke het meeste werk omdat dit vrij precies moet passen. Omdit voor elkaar te krijgen heb ik best lang moeten vijlen om wat randjes weg te halen.
+  * Ik heb de hoekjes opgevuld met laspunten en deze daarna glad geschuurd.
+  <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto4.JPG?raw=true">
+  * als laatste heb ik alles nog gezandstraalt om het later te verven.
+
+  
