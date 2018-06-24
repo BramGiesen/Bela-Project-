@@ -23,22 +23,30 @@
   * Om the testen of alle potmeters goed werkte heb ik aan aantal sinus oscillatoren aangemaakt en de potmeters gemapt aan het volume en de frequency van de sinustonen.
   * Om een idee te krijgen van het formaat van de behuizingen heb ik de potmeters vast gemaakt aan een kartonnen doosje en de Bela hierin gelegd.
 
-  <img src="https://raw.githubusercontent.com/BramGiesen/Bela-Project-/master/images/foto1.JPG">
-  <img src="https://raw.githubusercontent.com/BramGiesen/Bela-Project-/master/images/foto2.JPG">
+  <img src="https://raw.githubusercontent.com/BramGiesen/Bela-Project-/master/images/foto1.JPG" style="width:77%">
+
+  <img src="https://raw.githubusercontent.com/BramGiesen/Bela-Project-/master/images/foto2.JPG" style="width:77%">
 
 
 ###### donderdag 21 juni:
 
-  * In de werkplaats begonnen aan een stalen behuizen.
+  * In de werkplaats begonnen aan een stalen behuizing.
   * Ik merkte dat ik een paar keer een beetje te snel wilde gaan waardoor ik bepaalde technieken niet eerst op een sample had getest. Dit wil ik de volgende keer wel doen. Ik de vouwen van het bakje nu iets de wijd gemaakt. Dit is ook later niet meer goed te corrigeren.
   Ik heb dit opgelost door er hoekjes in te zetten, maar het was natuurlijk makkelijker om het in één keer goed te doen.
 
-  <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto3.JPG?raw=true">
+  <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto3.JPG?raw=true" style="width:77%">
 
 
 
 ###### vrijdag 22 juni:
   * Verder gegaan aan de behuizing. Steuntjes in het bakjes gelast om de boven plaat te ondersteunen en ervoor te zorgen dat de bovenplaat vast te schroeven is. Ik heb onder de steuntjes een moertje gelast om hier de bout in vast te kunnen zetten. Dit was uiteindelijke het meeste werk omdat dit vrij precies moet passen. Omdit voor elkaar te krijgen heb ik best lang moeten vijlen om wat randjes weg te halen.
   * Ik heb de hoekjes opgevuld met laspunten en deze daarna glad geschuurd.
-  <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto4.JPG?raw=true">
-  * als laatste heb ik alles nog gezandstraalt om het later te verven.
+  * als laatste heb ik alles nog gezandstraald om het later te verven.
+
+  <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto4.JPG?raw=true" style="width:77%">
+
+##### zondag 24 juni:
+  * Het bakje gespoten, eerst een grond laag en daarna zwarte verf.
+  * Kwam er bij het in elkaar zetten achter dat de potmeter waarmee ik de alle gaatjes had getest net een fractie kleiner is dan de andere potmeters(wel allemaal hetzelfde model). Om ze allemaal goed te laten passen moet ik nog wat gaatjes uitvijlen(de knopjes op de foto liggen er nog los op).
+
+  <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto5.JPG?raw=true" style="width:77%">
