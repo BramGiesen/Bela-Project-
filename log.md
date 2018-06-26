@@ -39,7 +39,7 @@
 
 
 ###### vrijdag 22 juni:
-  * Verder gegaan aan de behuizing. Steuntjes in het bakjes gelast om de boven plaat te ondersteunen en ervoor te zorgen dat de bovenplaat vast te schroeven is. Ik heb onder de steuntjes een moertje gelast om hier de bout in vast te kunnen zetten. Dit was uiteindelijke het meeste werk omdat dit vrij precies moet passen. Omdit voor elkaar te krijgen heb ik best lang moeten vijlen om wat randjes weg te halen.
+  * Verder gegaan aan de behuizing. Steuntjes in het bakjes gelast om de boven plaat te ondersteunen en ervoor te zorgen dat de bovenplaat vast te schroeven is. Ik heb onder de steuntjes een moertje gelast om hier de bout in vast te kunnen zetten. Dit was uiteindelijke het meeste werk omdat dit vrij precies moet passen. Om dit voor elkaar te krijgen heb ik best lang moeten vijlen om wat randjes weg te halen.
   * Ik heb de hoekjes opgevuld met laspunten en deze daarna glad geschuurd.
   * als laatste heb ik alles nog gezandstraald om het later te verven.
 
@@ -50,3 +50,12 @@
   * Kwam er bij het in elkaar zetten achter dat de potmeter waarmee ik de alle gaatjes had getest net een fractie kleiner is dan de andere potmeters(wel allemaal hetzelfde model). Om ze allemaal goed te laten passen moet ik nog wat gaatjes uitvijlen(de knopjes op de foto liggen er nog los op).
 
   <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto5.JPG?raw=true" style="width:77%">
+
+##### maandag 25 juni:
+  * layout gemaakt voor de binnenkant. Potmeters worden op z'n plek gehouden door een kartonnen doosje binnen in de metalen case. Op de bodem heb ik karton en isolatietape bevestigd.
+  * Het aantal snoertjes en de omvang van het binnenwerk heb ik wel een beetje onderschat. Het past wel maar het was toch wel wat proppen en zoeken naar hoe alles het beste in de case kan worden bevestigd. Ik had van te voren wel wat kleine voorbeelden uit karton gemaakt om zo een inschatting te kunnen maken de omvang van het binnen werk maar voor de volgende keer(dit was deze keer niet mogelijk wegens het sluiten van de werkplaats)zou ik eerst het hele binnenwerk maken en dan pas de behuizing.
+
+##### dinsdag 26 juni:
+  * Heb de switches getest met een pull-up resistor systeem. Deze werken goed.
+  * Nu ik alle componenten heb getest heb ik een begin gemaakt om deze op een printplaat te solderen. Het soldeertin was behoorlijk klonterig en een beetje broos dus ik ga morgen checken of dit wel de juiste soort is om dit te doen en dan ga ik vervolgens alles in elkaar zetten.
+  * Een ander probleem waar ik tegenaan ben gelopen is de gaten aan de zijkant voor de usb en de adapter een beetje aan de kleine kant zijn, dit kan ik denk ik oplossen door er verloopjes tussen te zetten.
