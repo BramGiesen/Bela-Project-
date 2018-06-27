@@ -52,8 +52,13 @@
   <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto5.JPG?raw=true" style="width:77%">
 
 ##### maandag 25 juni:
+  * schema gemaakt in Fritzing.
   * layout gemaakt voor de binnenkant. Potmeters worden op z'n plek gehouden door een kartonnen doosje binnen in de metalen case. Op de bodem heb ik karton en isolatietape bevestigd.
   * Het aantal snoertjes en de omvang van het binnenwerk heb ik wel een beetje onderschat. Het past wel maar het was toch wel wat proppen en zoeken naar hoe alles het beste in de case kan worden bevestigd. Ik had van te voren wel wat kleine voorbeelden uit karton gemaakt om zo een inschatting te kunnen maken de omvang van het binnen werk maar voor de volgende keer(dit was deze keer niet mogelijk wegens het sluiten van de werkplaats)zou ik eerst het hele binnenwerk maken en dan pas de behuizing.
+
+  <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/Bela_pedal.png?raw=true" style="width:77%">
+
+  
 
 ##### dinsdag 26 juni:
   * Heb de switches getest met een pull-up resistor systeem. Deze werken goed.
