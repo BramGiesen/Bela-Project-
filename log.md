@@ -59,3 +59,12 @@
   * Heb de switches getest met een pull-up resistor systeem. Deze werken goed.
   * Nu ik alle componenten heb getest heb ik een begin gemaakt om deze op een printplaat te solderen. Het soldeertin was behoorlijk klonterig en een beetje broos dus ik ga morgen checken of dit wel de juiste soort is om dit te doen en dan ga ik vervolgens alles in elkaar zetten.
   * Een ander probleem waar ik tegenaan ben gelopen is de gaten aan de zijkant voor de usb en de adapter een beetje aan de kleine kant zijn, dit kan ik denk ik oplossen door er verloopjes tussen te zetten.
+
+##### woensdag 27 juni:
+  * Vandaag begonnen aan het solderen van de printplaat. Ik ben naar de winkel geweest om wat meer informatie te vragen of geschikt soldeertin en heb nu soldeertin met lood gebruikt. Hiernaast had ik ook een erg matige soldeerbout dus heb ik er eentje gekocht waarbij ik de temperatuur zelf kan instellen.
+  * Voor dat met het daadwerkelijke solderen ben begonnen heb ik eerst een tutorial gekeken over solderen, dit hielp wel om wat nettere puntjes te zetten. Na een aantal keer uitproberen op een test print plaatje ben ik begonnen met de echte printplaat.
+  * Na dat alles in elkaar zat ben ik een test gaan doen om te kijken of alles het goed deed. Toen kwam ik erachter dat twee knoppen het niet goed deden en toen ben ik de verbindingen door gaan meten en toen kwam ik op twee slechte verbindingen uit die ik hierna nog een keer heb gesoldeerd.
+  * Hierna heb ik de Bela audiokabels vervangen met 2x mono jack en toen heb ik het systeem getest met een gitaar, dit werkte goed. Als laatste heb ik de Bela getest met een usb-charger zodat ik geen computer meer nodig heb om het te runnen, dit werkt ook goed. In het menu van de Bela kan je ook aangeven welk project hij moet opstarten als hij wordt geboot dus dat werkt erg makkelijk.
+  * De laatste stap is om alle electronica in de behuizing te plaatsen.
+
+  <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto6.JPG?raw=true" style="width:77%">
