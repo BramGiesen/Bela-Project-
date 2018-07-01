@@ -49,7 +49,7 @@
   * Het bakje gespoten, eerst een grond laag en daarna zwarte verf.
   * Kwam er bij het in elkaar zetten achter dat de potmeter waarmee ik de alle gaatjes had getest net een fractie kleiner is dan de andere potmeters(wel allemaal hetzelfde model). Om ze allemaal goed te laten passen moet ik nog wat gaatjes uitvijlen(de knopjes op de foto liggen er nog los op).
 
-  <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto5.JPG?raw=true" style="width:77%">
+  <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto11.JPG?raw=true" style="width:77%">
 
 ##### maandag 25 juni:
   * schema gemaakt in Fritzing.
@@ -79,6 +79,7 @@
   * Begonnen met het verkorten van een USB-verloopje.
   * Hierna heb ik deze in de case gelegd met de bela en de jack-inputs en gekeken om te kijken of het allemaal werkte.
   * Vervolgens heb ik de electronica die ik al had gesoldeerd erover heen gelegd en aangesloten. het was nog wel even passen en meten om alles goed in case te krijgen. Voor de volgende keer zou ik graag in de werkplaats een plastic bakje maken voor de Bela en dan daar ook de potmeters op de bevestigen en de switches op de printplaat solderen waardoor ik alles op de deksel zou kunnen monteren. Omdat de werkplaatsen al gesloten zijn heb ik nu veel met karton en tape gedaan aan de binnenkant, werkt ook is alleen we iets minder mooi.  
+  * Ook zou het overzichtelijker geweest zijn om alle kabels die van de potmeters naar de printplaat gaan samen te binden en langs te zijkanten te leggen, het is nu een beetje een snoerensoep.
 
   <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto7.JPG?raw=true" style="width:77%">
 
@@ -87,3 +88,15 @@
   <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto9.JPG?raw=true" style="width:77%">
 
   <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto10.JPG?raw=true" style="width:77%">
+
+
+## Wat heb ik geleerd?
+  * Ik heb tot nu toe erg weinig met hardware/elektronica gedaan. Voor mij was het erg nuttig om zo'n project te doen en hier zelf informatie over op te zoeken. Nu ik dit een keer heb gedaan is de drempel ook een stuk lager geworden om nog een keer wat met hardware te gaan doen.
+  * Ik dacht dat ik wel wist hoe ik moest solderen maar hier heb ik ook wat verdere informatie over opgezocht. Naast de techniek van het solderen wist ik eigenlijk nog niks over welk soldeertin goed was om te gebruiken en welke niet. Doordat ik merkte dat het met het spul dat ik thuis had liggen niet zo goed ging en toen dus ben gaan informeren wat wel geschikt zou zijn heb ik hier ook meer inzicht in gekregen.
+  * Ik heb ook meer inzicht gekregen in hoe ik zo'n project het beste kan aanpakken en wat ik de volgende keer anders zou doen.
+  Ik had nu al wel een stukje van de behuizing eerst van karton gemaakt om een idee te krijgen maar voor de volgende keer zou ik eerst het hele binnenwerk uitdenken. Vervolgens een kartonnen behuizingen maken en dan als laatste de metalen behuizing. Dit zou ik zo doen omdat ik tijdens dit project heb gemerkt dat het toch lastig is om van te voren precies in te schatten hoeveel ruimte je nodig gaat hebben en dat er toch wel vaak nog dingetjes bij kwamen waar ik geen rekening mee had gehouden.
+  * Hiernaast heb ik ook gemerkt dat het belangrijk is om secuur te werken en eerst een paar testertjes te maken voordat je aan het echte werk begint. Omdat ik dit al constateerde tijdens het maken van de behuizing heb ik dat daarna wel toegepast.
+  * Ook het gebruik van goed materiaal en goede kabels is belangrijk. Ik had voor een paar dingetjes een beetje fragiele kabeltjes gebruikt, en daarna ook meteen gemerkt dat deze gingen afbreken of storen. Omdat het toch behoorlijk irritant is om deze dingen op te moeten lossen is het toch een stuk prettiger om meteen goed materiaal te gebruiken zodat je niet later nog bezig bent met het repareren van je eigen project. Hiernaast zou ik dit pedaal ook wel live willen gebruiken met mijn band en dan zijn dit soort dingen zeker belangrijk omdat je er wel van op aan moet kunnen dat het allemaal werkt en blijft werken.
+  * Ik ben al met al erg tevreden met het resultaat en ik vind het erg leuk dat ik de effecten die ik op mijn computer maak nu ook op dit ding kan zetten en dus geen computer meer hoef mee te nemen als ik deze effecten buitenhuis wil gebruiken.
+
+  ter afsluiting heb ik ook nog een korte demonstratie video opgenomen van het gitaarpedaal. De video is hier te vinden: http://studenthome.hku.nl/~bram.giesen/BelaGuitarEffectPedal_v3.mp4
