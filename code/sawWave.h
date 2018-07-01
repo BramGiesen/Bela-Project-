@@ -1,0 +1,30 @@
+/***** sawWave.h *****/
+#ifndef _SAWWAVE_H_
+#define _SAWWAVE_H_
+#include "oscillator.h"
+#include <iostream>
+
+class SawWave : public Oscillator
+{
+public:
+
+    SawWave(double samplerate): SawWave(samplerate, 0, 0) {};
+    SawWave(double samplerate, double frequency) :
+    SawWave(samplerate, frequency, 0) {};
+    SawWave(double samplerate, double frequency, double phase):
+    Oscillator (samplerate, frequency, phase) {};
+    ~SawWave(){};
+    SawWave() = delete;
+
+    void calculate() override;
+
+
+};
+
+inline void SawWave::calculate()
+{
+    sample = phase;
+}
+
+
+#endif
