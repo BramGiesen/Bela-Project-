@@ -58,7 +58,7 @@
 
   <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/Bela_pedal.png?raw=true" style="width:77%">
 
-  
+
 
 ##### dinsdag 26 juni:
   * Heb de switches getest met een pull-up resistor systeem. Deze werken goed.
@@ -73,3 +73,17 @@
   * De laatste stap is om alle electronica in de behuizing te plaatsen.
 
   <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto6.JPG?raw=true" style="width:77%">
+
+##### zaterdag 1 juli:
+
+  * Begonnen met het verkorten van een USB-verloopje.
+  * Hierna heb ik deze in de case gelegd met de bela en de jack-inputs en gekeken om te kijken of het allemaal werkte.
+  * Vervolgens heb ik de electronica die ik al had gesoldeerd erover heen gelegd en aangesloten. het was nog wel even passen en meten om alles goed in case te krijgen. Voor de volgende keer zou ik graag in de werkplaats een plastic bakje maken voor de Bela en dan daar ook de potmeters op de bevestigen en de switches op de printplaat solderen waardoor ik alles op de deksel zou kunnen monteren. Omdat de werkplaatsen al gesloten zijn heb ik nu veel met karton en tape gedaan aan de binnenkant, werkt ook is alleen we iets minder mooi.  
+
+  <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto7.JPG?raw=true" style="width:77%">
+
+  <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto8.JPG?raw=true" style="width:77%">
+
+  <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto9.JPG?raw=true" style="width:77%">
+
+  <img src="https://github.com/BramGiesen/Bela-Project-/blob/master/images/foto10.JPG?raw=true" style="width:77%">
