@@ -1,4 +1,4 @@
-Guitar Frequency Analyzer
+Guitar Pedal build with a Bela
 ==========================
 
-Project for Makersskills @ HKU 
+Project for Makersskills @ HKU
